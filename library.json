@@ -23,13 +23,10 @@
   ],
   "dependencies": [
     {
-      "owner": "ESP32Async",
-      "name": "AsyncTCP",
-      "version": "^3.4.9",
-      "platforms": [
-        "espressif32",
-        "libretiny"
-      ]
+      "owner": "DhimasArdinata",
+      "name": "ESPAsyncTCP",
+      "version": "^2.0.0",
+      "platforms": "espressif8266"
     },
     {
       "owner": "ESP32Async",
