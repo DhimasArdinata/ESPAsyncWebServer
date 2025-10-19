@@ -29,7 +29,7 @@
     {
       "owner": "DhimasArdinata",
       "name": "ESPAsyncTCP",
-      "version": "https://github.com/DhimasArdinata/ESPAsyncTCP.git#feature/bearssl-port",
+      "version": "https://github.com/DhimasArdinata/ESPAsyncTCP.git",
       "platforms": "espressif8266"
     },
     {
