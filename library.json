@@ -29,7 +29,7 @@
     {
       "owner": "DhimasArdinata",
       "name": "ESPAsyncTCP",
-      "version": "https://github.com/DhimasArdinata/ESPAsyncTCP.git",
+      "version": "https://github.com/DhimasArdinata/ESPAsyncTCP.git#v2.0.0-beta",
       "platforms": "espressif8266"
     },
     {
